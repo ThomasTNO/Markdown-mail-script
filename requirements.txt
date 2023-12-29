@@ -1,0 +1,2 @@
+cairosvg
+markdown2
